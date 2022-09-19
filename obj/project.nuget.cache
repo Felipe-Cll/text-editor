@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l9FFe2LagrLLKVx7ayd0jNlaRrXTSTqlnMXHm3zvGA8PWtr6l6ELomwRG4KzC5AeoNRJ3I/hb3w9Pv2jMFL3NA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos-github\\TextEditor\\TextEdit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}
