@@ -4,7 +4,13 @@
 </p>
 
 ## :books: Informações
-Primeira versão do meu projeto "Editor de Textos em C#", o qual a aula foi orientada pelo Andre Baltieri. Neste projeto aprendi mais sobre o uso do "StreamReader" para leitura de arquivos e a importância de fechar os arquivos.
+Primeira versão do meu projeto "Editor de Textos em C#", o qual a aula foi orientada pelo Andre Baltieri. Neste projeto foi utilizado várias funções como:
+- Uso do "short"
+- Uso do "Switch"
+- Leitura de arquivos com "StreamReader"
+- Salvar arquivos com "StreamWriter"
+- Utilização do "Do While"
+
 
 ## :pushpin: Tecnologias
 <ul>
